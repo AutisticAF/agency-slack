@@ -34,8 +34,8 @@ Skills are grouped by prefix:
 
 | Prefix | Purpose |
 |--------|---------|
-| `webapp-` | Webapp-specific workflows (navigation, DevSpaces, feature flags) |
-| `desktop-` | Desktop-specific patterns (epics, preload, packaging) |
+| `webapp-` | Webapp-specific workflows: `webapp-navigation`, `webapp-devspaces`, `webapp-feature-flags` |
+| `desktop-` | Desktop-specific patterns: `desktop-epics`, `desktop-preload`, `desktop-packaging` |
 | `slack-` | Cross-repo Slack patterns (MCP servers, deploy, shared tooling) |
 
 ## Rules
