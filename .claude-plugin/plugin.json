@@ -1,0 +1,8 @@
+{
+	"name": "agency-slack",
+	"version": "0.1.0",
+	"description": "Agency specialist plugin for Slack application development. Provides orchestration-aware agents for webapp (Hack/React) and slack-desktop (Electron/TypeScript) that leverage each repo's existing Claude Code tooling.",
+	"author": {
+		"name": "Alex Karp"
+	}
+}
